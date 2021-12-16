@@ -1,0 +1,3 @@
+rootProject.name = "QigsawDemo"
+include ':app'
+include ':featuredemo'
