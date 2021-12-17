@@ -1,6 +1,6 @@
 # Qigsaw Demo
 
-![Qigsaw](https://github.com/iqiyi/Qigsaw)
+[Qigsaw](https://github.com/iqiyi/Qigsaw)
 
 **使用版本: 1.4.1-hotfix02**
 
